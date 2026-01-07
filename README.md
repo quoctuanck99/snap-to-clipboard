@@ -1,4 +1,4 @@
-# Region Capture to Clipboard
+# SnapToClipboard - Region Capture to Clipboard
 
 This Chrome extension lets you click the toolbar button, draw a rectangle on the page, and automatically copy the selected region as an image to the clipboard.
 

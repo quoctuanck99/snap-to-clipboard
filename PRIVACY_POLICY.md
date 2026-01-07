@@ -21,4 +21,4 @@ The Extension requests only the permissions necessary to perform its core functi
 such as accessing the active tab or page content when you trigger the extension.
 
 ## Contact
-If you have questions about this policy, please contact: quoctuanck99@outlook.com
+If you have questions about this policy, please contact: quoctuanck99@gmail.com
